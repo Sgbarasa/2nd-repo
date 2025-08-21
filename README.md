@@ -1,5 +1,5 @@
 # Phase0 test 2
-This is the second test for pushing code to my Github second repo using my SSH key. This is a demo test with
+This is the second test for pushing code to my Github second repo using my SSH key. NB: This is a demo test
 
 Here is how I did it:
  - mkdir second-repo
